@@ -1,0 +1,16 @@
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\bin\Debug\net5.0\ConsumindoApiRest.exe
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\bin\Debug\net5.0\ConsumindoApiRest.deps.json
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\bin\Debug\net5.0\ConsumindoApiRest.runtimeconfig.json
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\bin\Debug\net5.0\ConsumindoApiRest.runtimeconfig.dev.json
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\bin\Debug\net5.0\ConsumindoApiRest.dll
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\bin\Debug\net5.0\ref\ConsumindoApiRest.dll
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\bin\Debug\net5.0\ConsumindoApiRest.pdb
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\obj\Debug\net5.0\ConsumindoApiRest.csprojAssemblyReference.cache
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\obj\Debug\net5.0\ConsumindoApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\obj\Debug\net5.0\ConsumindoApiRest.AssemblyInfoInputs.cache
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\obj\Debug\net5.0\ConsumindoApiRest.AssemblyInfo.cs
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\obj\Debug\net5.0\ConsumindoApiRest.csproj.CoreCompileInputs.cache
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\obj\Debug\net5.0\ConsumindoApiRest.dll
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\obj\Debug\net5.0\ref\ConsumindoApiRest.dll
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\obj\Debug\net5.0\ConsumindoApiRest.pdb
+C:\Users\T2S - Fábio\Documents\MeusEstudos\Dotnet\ConsumindoApiRest\obj\Debug\net5.0\ConsumindoApiRest.genruntimeconfig.cache
